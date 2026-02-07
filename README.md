@@ -4,8 +4,8 @@
 
 **Mechatronics Engineer | Full-Stack Developer | FUT Minna '26**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=debugAyo&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debugAyo&layout=compact&theme=radical&hide_border=true)
+[![GitHub Stats](https://img.shields.io/badge/GitHub-debugAyo-000?style=flat&logo=github)](https://github.com/debugAyo)
+[![Visitors](https://img.shields.io/badge/Visitors-100+-blue?style=flat)](https://github.com/debugAyo)
 
 </div>
 
@@ -37,7 +37,8 @@
 <!-- Pin more: e.g., Laravel portfolio, C mechanics sim, FastAPI API -->
 
 ## 📈 Activity
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=debugAyo&theme=radical)
+[![Contributions](https://img.shields.io/badge/Contributions-Active-brightgreen?style=flat&logo=github)](https://github.com/debugAyo)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-Feb%202026-blue?style=flat)](https://github.com/debugAyo)
 
 ## 📫 Connect
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/debugAyo)
